@@ -2,7 +2,7 @@
 
 ## Preamble
 
-This assignment is difficult! It is okay if you cannot figure some things out or cannot finish all the features. The important thing is that you demonstrate your process and try your best.
+This assignment is difficult! It is okay if you cannot figure some things out or cannot finish all the features. The important thing is that you demonstrate your process and try your best. **Make sure you read this README very carefully, there are many useful tips that will save you time**.
 
 ![Keep Calm](./media/keep_calm.jpg)
 
