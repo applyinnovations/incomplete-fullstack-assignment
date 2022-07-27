@@ -1,0 +1,24 @@
+:root {
+  --game-size: min(100vh, 100vw);
+}
+
+@keyframes enemy {
+  0% {
+    background-position-x: 0%;
+  }
+  100% {
+    background-position-x: 100%;
+  }
+}
+
+.enemy {
+  z-index: 1;
+}
+
+.weapon {
+  z-index: 1;
+  background-origin: "content-box";
+  transform: scaleX(-1);
+  width: 64px;
+  height: 64px;
+}
