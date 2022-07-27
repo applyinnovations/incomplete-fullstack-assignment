@@ -99,7 +99,7 @@ You are welcome to add features of your own for extra wow factor if desired!
 | Simplicity of code | Your code must be readable and clear. In places where your code is not clear please use comments to explain those sections. Unessecarily complicated / convoluted code will be marked down.                                                                           |
 
 ## Tips
-
+- `x` and `y` are relative coordinates to the entity's position within the game area. Both values are between 0 and 1 where `x=0, y=0` is the top left and `x=1, y=1` is the bottom right.
 - Please do not use JQuery, you will be marked down significantly for using this
 - This project has been completed by our lead engineers and they did not require any additional npm packages to do so
 - Please email alexander@applyinnovations.com.au with any questions or assitance required. Asking questions always reflects **positivley** on your assessment (even if you are asking for help)
