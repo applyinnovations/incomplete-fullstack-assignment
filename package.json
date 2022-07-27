@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "yarn workspace @apply/types start & yarn workspace @apply/backend start & yarn workspace @apply/frontend start"
+  },
+  "workspaces": [
+    "backend",
+    "frontend",
+    "types"
+  ]
+}

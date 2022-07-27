@@ -1,0 +1,23 @@
+export var EnemyTypes;
+(function (EnemyTypes) {
+    EnemyTypes[EnemyTypes["AngryPig"] = 0] = "AngryPig";
+    EnemyTypes[EnemyTypes["Bat"] = 1] = "Bat";
+    EnemyTypes[EnemyTypes["Bee"] = 2] = "Bee";
+    EnemyTypes[EnemyTypes["BlueBird"] = 3] = "BlueBird";
+    EnemyTypes[EnemyTypes["Bunny"] = 4] = "Bunny";
+    EnemyTypes[EnemyTypes["Chameleon"] = 5] = "Chameleon";
+    EnemyTypes[EnemyTypes["Chicken"] = 6] = "Chicken";
+    EnemyTypes[EnemyTypes["Duck"] = 7] = "Duck";
+    EnemyTypes[EnemyTypes["FatBird"] = 8] = "FatBird";
+    EnemyTypes[EnemyTypes["Ghost"] = 9] = "Ghost";
+    EnemyTypes[EnemyTypes["Mushroom"] = 10] = "Mushroom";
+    EnemyTypes[EnemyTypes["Plant"] = 11] = "Plant";
+    EnemyTypes[EnemyTypes["Radish"] = 12] = "Radish";
+    EnemyTypes[EnemyTypes["Rino"] = 13] = "Rino";
+    EnemyTypes[EnemyTypes["Rock"] = 14] = "Rock";
+    EnemyTypes[EnemyTypes["Skull"] = 15] = "Skull";
+    EnemyTypes[EnemyTypes["Slime"] = 16] = "Slime";
+    EnemyTypes[EnemyTypes["Snail"] = 17] = "Snail";
+    EnemyTypes[EnemyTypes["Trunk"] = 18] = "Trunk";
+    EnemyTypes[EnemyTypes["Turtle"] = 19] = "Turtle";
+})(EnemyTypes || (EnemyTypes = {}));

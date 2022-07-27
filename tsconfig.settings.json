@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "allowJs": false,
+    "noImplicitAny": true,
+    "declaration": true,
+    "declarationMap": true,
+    "composite": true,
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "references": [
+    {
+      "path": "../types"
+    }
+  ]
+}

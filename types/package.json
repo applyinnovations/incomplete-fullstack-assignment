@@ -1,0 +1,16 @@
+{
+  "version": "1.0.2",
+  "name": "@apply/types",
+  "main": "dist/index",
+  "type": "module",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "start": "tsc --watch"
+  },
+  "dependencies": {}
+}
